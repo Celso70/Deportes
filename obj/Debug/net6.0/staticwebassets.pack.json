@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\wwwroot\\js\\datatables-simple.demo.js",
+      "PackagePath": "staticwebassets\\js\\datatables-simple.demo.js"
+    },
+    {
       "Id": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

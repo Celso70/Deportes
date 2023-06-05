@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YJn07LWUJs6pItLglWD1FrSZjFbg8VKChRx7TZqaOWg=",
+  "Hash": "YC7dWgNTEb1e5W0AGD7AmQsDS34U5RSEToyzEO0b0Rg=",
   "Source": "Deportes",
   "BasePath": "_content/Deportes",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\wwwroot\\js\\datatables-simple.demo.js",
+      "SourceId": "Deportes",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\wwwroot\\",
+      "BasePath": "_content/Deportes",
+      "RelativePath": "js/datatables-simple.demo.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\datatables-simple.demo.js"
     },
     {
       "Identity": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\wwwroot\\js\\site.js",
