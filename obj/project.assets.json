@@ -10862,26 +10862,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Celso\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\Deportes.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DEPORTES\\Deportes\\Deportes.csproj",
       "projectName": "Deportes",
-      "projectPath": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\Deportes.csproj",
-      "packagesPath": "C:\\Users\\Celso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Celso\\Desktop\\PAGINAA\\TESIS\\Deportes\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\DEPORTES\\Deportes\\Deportes.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\DEPORTES\\Deportes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Celso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10956,7 +10954,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
